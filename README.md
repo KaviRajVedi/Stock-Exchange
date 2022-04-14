@@ -20,7 +20,7 @@ https://cs50.harvard.edu/x/2022/psets/9/finance/
 ## Tools
 - Flask (https://flask.palletsprojects.com/en/1.1.x/)
 
-
+## Implementation
 For this project, I implemented the following functionality:
 
 1. `register`: Allows a user to "register" on the site. The username and password are submitted via Flask and stored in a sqlite 3 database
